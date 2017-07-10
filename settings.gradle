@@ -1,0 +1,1 @@
+include ':app', ':annotation_library', ':annotation_compiler', ':annotation_inject'
